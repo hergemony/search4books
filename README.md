@@ -1,4 +1,4 @@
-# SEARCH 4 BOOKS  📙 ❓ 🔍 
+# SEARCH 4 BOOKS  🔍 ❓ 📚
 
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
@@ -39,6 +39,7 @@ This system allows users to search for any book agains Googles publicly availabl
 https://medium.com/mobile-web-dev/how-to-build-and-deploy-a-react-app-to-github-pages-in-less-than-5-minutes-d6c4ffd30f14
 
 
+https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/changing-the-default-branch
 
 ## Questions
 Any questions, please email me at hergemony@gmail.com
