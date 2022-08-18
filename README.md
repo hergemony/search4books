@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# SEARCH 4 BOOKS  📙 ❓ 🔍 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![License](https://img.shields.io/badge/License-MIT-blue)
 
-## Available Scripts
+# Table of Contents
+* [Description](##Description)
+* [Tech Stack](#Techstack)
+* [Deployed Link](##DeployedLink)
+* [Screenshot](#Screenshot)
+* [Credits](#Credits)
+* [Questions](#Questions)
+* [Copyright](#Copyright)
 
-In the project directory, you can run:
 
-### `npm start`
+# Description
+Taking source code for a fully functioning Google Books API search engine built with RESTful API and refactor it to be a GraphQL, built with Apollo Server.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This system allows users to search for any book agains Googles publicly available API and save to their user for reference the next time they login. The appliation was created using a MERN stack and connected by ApolloServer and ApolloProvider node packages. After launching the application, users can signup or login. Features on the site become accessible or hidden depending on if the user is logged in or not. This is tracked using JSON web tokens. The power behind the application is thanks to the implementation of GraphQL which allows for very dynamic user queries and mutations.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Tech Stack
+* [NodeJS](https://nodejs.org/en)
+* [Express](https://expressjs.com/)
+* [MongoDB](https://www.mongodb.com/cloud/atlas)
+* [Mongoose](https://mongoosejs.com/)
+* [Apollo](https://www.apollographql.com/)
+* [React](https://reactjs.org/)
+* [GraphQL](https://graphql.org/)
+* [Google Book API](https://developers.google.com/books)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# DeployedLink
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Screenshot
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+# Credits
+https://medium.com/mobile-web-dev/how-to-build-and-deploy-a-react-app-to-github-pages-in-less-than-5-minutes-d6c4ffd30f14
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Questions
+Any questions, please email me at hergemony@gmail.com
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Copyright
+©️ 2022 Hergemony™️ Digital
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**[🔙 back to top](#description)**
